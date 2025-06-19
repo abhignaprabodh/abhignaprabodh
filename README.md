@@ -41,15 +41,6 @@ I am a passionate **Master of Computer Applications** student at R V Institute o
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhignaprabodh&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhignaprabodh&" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhignaprabodh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ### 📢 Let's Connect!
 <p align="left">
   <a href="https://linkedin.com/in/abhigna-prabodh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
